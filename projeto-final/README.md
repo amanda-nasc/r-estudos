@@ -1,10 +1,6 @@
 # 📊 Projeto Final: Análise de Queda nas Vendas — HashTech
 Este projeto foi desenvolvido como aplicação prática dos conhecimentos adquiridos em R.
 
-## ❓ Problema
-
-Por que as vendas da HashTech caíram?
-
 ---
 
 ## 🏢 Contexto
