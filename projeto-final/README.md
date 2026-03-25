@@ -44,12 +44,18 @@ Os dados utilizados são simulados e representam as vendas ao longo de 2024.
 
 ---
 
-## 🔍 Abordagem
+## 📈 Principais Insights
 
-A análise foi conduzida explorando:
+- O faturamento total da empresa apresentou uma queda significativa a partir de outubro de 2024.
 
-- Evolução do faturamento ao longo do tempo  
-- Comparação entre produtos  
-- Identificação de padrões e mudanças relevantes  
+- Ao analisar o faturamento por produto, identificou-se que a queda está fortemente associada ao desempenho da categoria **Placa de Vídeo**, que teve redução expressiva no mesmo período.
+
+- Observou-se também que, a partir de outubro de 2024, o preço médio das **Placas de Vídeo** aumentou significativamente.
 
 ---
+
+## 💡 Hipóteses
+
+- O aumento no preço médio das Placas de Vídeo pode ter impactado negativamente a demanda, contribuindo para a queda no faturamento.
+
+- Como este é o produto de maior impacto, sua variação afetou diretamente o resultado total da empresa.
