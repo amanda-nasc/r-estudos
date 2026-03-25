@@ -63,13 +63,13 @@ A base está disponível na pasta `data/` deste repositório.
 
 ## 📊 Visualizações
 
-### Faturamento ao longo do tempo
+### 
 ![Faturamento Mensal](graficos/faturamento-mensal.png)
 
-### Faturamento por produto
+### 
 ![Faturamento por Produto](graficos/faturamento-produto.png)
 
-### Preço médio ao longo do tempo
+### 
 ![Preço Médio](graficos/preco-medio-produtos.png)
 
 ---
